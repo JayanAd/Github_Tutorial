@@ -3,3 +3,8 @@ git add . => to add all files to staging area
 
 git branch -M main => rename master branch to "main"
 
+git commit -m "commit_message" => commits the local changes made
+
+git remote add origin "repo_url" => connects a local git repo to github
+
+git push -u origin main => push to github
