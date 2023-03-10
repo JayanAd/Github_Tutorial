@@ -7,4 +7,15 @@ git commit -m "commit_message" => commits the local changes made
 
 git remote add origin "repo_url" => connects a local git repo to github
 
-git push -u origin main => push to github
+git push -u origin main => push to github (for first time)
+
+git push => for second time onwards....
+
+
+==============
+
+git branch <branch name> => create branche name
+git branch => to view the available local branches
+
+git checkout <destination_branch_name> => change branch
+
